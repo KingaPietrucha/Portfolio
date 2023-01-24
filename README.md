@@ -1,51 +1,52 @@
 
-Portfolio
+# Portfolio
 My Tester's Portfolio
 
-About me
-My name is Joanna Kraciuk. I am master of two performed art and master of music art specialities - Conducting and Eurhytmics. I graduated from Music Academy in Katowice, Poland. Recently I have started to interest of software testing. My goal is to develop testing knowledge and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
+# About me
+My name is Kinga Pietrucha . I gained my knowledge during the intensive course "Software Tester", where I gained the necessary knowledge in creating test cases, detecting and describing errors. During the course I had the opportunity to demonstrate my skills during many hours of practical classes, where I used programs such as Jira, Testrial, Postaman. I am currently developing myself through webinars and courses on the Udemy platform, where I have completed the course "Practical Software Testing Course", "Jira- -Project Management Course" and " "SQL course from scratch. MySQL."
+I would be happy to join the team, , which I can support with my knowledge as well as skills.
 
-Tools
-Redmine, Trello, Jira - Issue tracking and project management tool for developers
-MySQL
-Postman
-TestLink
-Tech skills
-Creating test case
-Creating scenarios
-Reporting bugs
-Knowledge ISTQB FL
-SQL
-SCRUM
-Certificates
-Certyfikat ECCC "Testowanie oprogramowania"
-Certyfikat ECCC "Kompetencje cyfrowe DigComp"
-Courses
-Testowanie oprogramowania i rozwój kompetencji cyfrowych DIGCOMP luty-czerwiec 2022
-uTest Academy (w trakcie)
-"Testowanie Rest Api - wprowadzenie" Akademia QA
-"Bazy danych MySQL" Mirosław Zelent
-"Dokumentacja testowa w TestLink" www.wyszkolewas.com.pl
-Books
-Radosław Smiglin "Zawód tester"
-Karolina Zmitrowicz "Tester oprogramowania"
-Groups on Facebook
-Tester oprogramowania - wsparcie na starcie
-Testowanie oprogramowania
-Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior) POLSKA
-Bazy danych i SQL dla początkujących
-Zdobywamy pierwszą pracę w IT
-Recomended blogs
-testerzy.pl
-testuj.pl - Test, Bugs & Rock'n'Roll
-remigiuszbednarczyk.pl
-Testelka.pl
-podcasttestowanie.pl
-Webinars
-UX/UI Design SDAcademy
-Playwright w pigułce - Przemysław Paczoski CanTestIT
-Szkolenia dla QA Adam Gola - "O dostępności"
-My Test Documentation
-Test scenario and bug reports https://drive.google.com/drive/folders/1Jzx7RyQDDpETEfMKb-nzECp3zHwMXjhk?usp=sharing
-Bug reports https://drive.google.com/drive/folders/1lVQGlDuNAoRI2HzJ7y8nn48m25Dir4Wj?usp=sharin
-Test reports https://drive.google.com/drive/folders/1DhJCQdj8xPyGIIhHHBB3gCwsU3EkDAB-?usp=sharing
+
+# Tech skills
+  - SQL
+  - Software testing
+  - Creating test cases
+  - Reporting bugs
+  - Java
+  -Selenium
+  -Jira, Testrial
+  -Postman (API, tests)
+  -BDD
+  -Test management
+  
+ # Soft skills
+
+  -flexibility - adapts quickly to changes, new tasks
+  -ability to work in a team - 5 years I worked in a team of 10 people
+  -communicativeness - easily establishes new contacts
+  
+# Courses
+  - Software Academy Development "Tester Oprogramowania" 
+  - udemy.com Kurs Jira od postaw- zarządzanie projektami
+  - udemy.com Praktyczny kurs testowania oprogramowania
+  - udemy.com Postman od podstaw- Testowanie REST API
+  - udemy.com The Complete SQL Bootcamp: Go from Zero to Hero
+  - udemy.com Kurs SQL od postaw
+ 
+# Books
+  - K. Jadczyk - Pasja testowania
+  - K. Sierra B. Bates - Head First Java
+  - M. J. Kubiak - Java. Zadania z programowania z przykładowymi rozwiązaniami
+  - R. Adam, S. Lucjan - Certyfikowany tester ISTQB. Poziom podstawowy 
+  
+# Groups on Facebook
+  - Tester oprogramowania - wsparcie na starcie
+  - Kurs Tester Manualny
+  - Testowanie oprogramowania - Materiały|Porady
+  
+  
+# Recommended blogs
+  - 4testers.pl
+  - testerzy.pl
+  - testerka.pl
+  - testuj.pl
