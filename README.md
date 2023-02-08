@@ -13,17 +13,20 @@ I would be happy to join the team, , which I can support with my knowledge as we
   - Creating test cases
   - Reporting bugs
   - Java
-  -Selenium
-  -Jira, Testrial
-  -Postman (API, tests)
-  -BDD
-  -Test management
+  - Selenium
+  - Jira, Testrial
+  - Postman (API, tests)
+  - BDD
+  - Test management
   
  # Soft skills
 
-  -flexibility - adapts quickly to changes, new tasks
-  -ability to work in a team - 5 years I worked in a team of 10 people
-  -communicativeness - easily establishes new contacts
+  - flexibility 
+  - adapts quickly to changes, new tasks
+  - ability to work in a team 
+  - 5 years I worked in a team of 10 people
+  - communicativeness 
+  - easily establishes new contacts
   
 # Courses
   - Software Academy Development "Tester Oprogramowania" 
