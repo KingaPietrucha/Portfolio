@@ -9,6 +9,7 @@ I will be happy to tell more about myself at the meeting.
 
 # Project IT
 Skitraj - https://github.com/KingaPietrucha/Projekt-Skitraj/tree/TestPlan
+
 Description: testing website functionality according to documentation using exploratory testing. Development of test cases based on requirements. Error reporting. 
 Technologies: Jira, TestRail, Postman, Selenium IDE, DevTools.
 
