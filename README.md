@@ -3,12 +3,12 @@
 My Tester's Portfolio
 
 # About me
- My name is Kinga. I found my passion for testing at the "Software Tester" course, where 
+My name is Kinga. I found my passion for testing at the "Software Tester" course, where 
 I gained the necessary knowledge in this field and learned the Scrum method. I have knowledge of ISTQB. I am currently developing myself through webinars and courses. In my free time, I independently learn the basics of the Python language, read about new technology and practice deepwork. I would love to join Tuatara to be able to support your team with my knowledge and skills. 
 I will be happy to tell more about myself at the meeting.
 
 # Project IT
-Skitraj - https://github.com/KingaPietrucha/Projekt-Skitraj/tree/TestPlan
+##Skitraj - https://github.com/KingaPietrucha/Projekt-Skitraj/tree/TestPlan
 
 Description: testing website functionality according to documentation using exploratory testing. Development of test cases based on requirements. Error reporting. 
 Technologies: Jira, TestRail, Postman, Selenium IDE, DevTools.
