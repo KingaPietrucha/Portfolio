@@ -3,8 +3,14 @@
 My Tester's Portfolio
 
 # About me
-My name is Kinga Pietrucha . I gained my knowledge during the intensive course "Software Tester", where I gained the necessary knowledge in creating test cases, detecting and describing errors. During the course I had the opportunity to demonstrate my skills during many hours of practical classes, where I used programs such as Jira, Testrial, Postaman. I am currently developing myself through webinars and courses on the Udemy platform, where I have completed the course "Practical Software Testing Course", "Jira- -Project Management Course" and " "SQL course from scratch. MySQL."
-I would be happy to join the team, , which I can support with my knowledge as well as skills.
+ My name is Kinga. I found my passion for testing at the "Software Tester" course, where 
+I gained the necessary knowledge in this field and learned the Scrum method. I have knowledge of ISTQB. I am currently developing myself through webinars and courses. In my free time, I independently learn the basics of the Python language, read about new technology and practice deepwork. I would love to join Tuatara to be able to support your team with my knowledge and skills. 
+I will be happy to tell more about myself at the meeting.
+
+# Project IT
+Skitraj - https://github.com/KingaPietrucha/Projekt-Skitraj/tree/TestPlan
+Description: testing website functionality according to documentation using exploratory testing. Development of test cases based on requirements. Error reporting. 
+Technologies: Jira, TestRail, Postman, Selenium IDE, DevTools.
 
 
 # Tech skills
@@ -12,7 +18,8 @@ I would be happy to join the team, , which I can support with my knowledge as we
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - Java
+  - Linux
+  - GIT
   - Selenium
   - Jira, Testrial
   - Postman (API, tests)
@@ -30,11 +37,12 @@ I would be happy to join the team, , which I can support with my knowledge as we
   
 # Courses
   - Software Academy Development "Tester Oprogramowania" 
+  - Quality Island "Introduction to API testing in Postman"
+  - Quality Island "Databases. SQL language for testers"
   - udemy.com Kurs Jira od postaw- zarządzanie projektami
   - udemy.com Praktyczny kurs testowania oprogramowania
-  - udemy.com Postman od podstaw- Testowanie REST API
   - udemy.com The Complete SQL Bootcamp: Go from Zero to Hero
-  - udemy.com Kurs SQL od postaw
+  
  
 # Books
   - K. Jadczyk - Pasja testowania
